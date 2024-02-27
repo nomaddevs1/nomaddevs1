@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farouq Siwoku</h1>
-<h3 align="center">A Computer Science with a passion for building projects that actually</h3>
+<h3 align="center">A Computer Science student with passion for building projects that actually</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomaddevs1" alt="nomaddevs1" /></a> </p>
 
