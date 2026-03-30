@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 Currently working on an IOT system for a smart waste system.<br>🌱 I’m currently learning flutter<br>💬 Ask me about anything Javascript, Typescript, History and longboarding<br>⚡ I am an avid long boarder with a passion for exploring and meeting new people. I am also looking to get into Financial Engineer🧑🏾‍💻🧑🏾‍💻
+I moved to the United States from Lagos, Nigeria at 18 with no connections and no roadmap. I started at community college in Texas, transferred to the University of North Texas, and graduated near the top of my class. A lot of people and institutions gave me a chance along the way, and I don't take that lightly. Today I build software at Goldman Sachs for the teams that run the firm's financial infrastructure: budgeting, forecasting, spend management, and it's taught me what it means to ship things that thousands of people depend on every day.
 
+Outside of work I'm always building and learning. I read 30 to 40 books a year, follow the AI and agentic tooling space closely, and build personal projects that keep me ahead of what's coming. I'm most energized when the technology I build actually changes how someone works, when a better tool gives someone back time, clarity, or confidence they didn't have before. 
+
+Lagos → Texas → New York.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farouq-siwoku) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@farouqsiwoku) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/nomadev) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Nomadevs) 
